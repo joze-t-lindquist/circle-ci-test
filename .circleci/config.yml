@@ -1,4 +1,3 @@
-.circleci > ! configl.yml
 version: 2.1
 jobs:
   build:
